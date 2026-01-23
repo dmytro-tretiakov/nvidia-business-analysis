@@ -9,7 +9,7 @@ This group project analyzes NVIDIA’s stock prices, financial data, market perf
 2. **Market Analysis**
 3. **Social Media Sentiment Analysis**
 
-Throughout this project, I was responsible for the **Stock price Trend and Year over Year Growth analysis** section. I developed an automated data pipeline and conducted a time-series analysis in Databricks to track NVIDIA’s stock price trends across weekly, monthly, and yearly intervals and analyze stock price year-over-year growth.
+Throughout this project, I was responsible for the **Stock price Trend and Year over Year Growth** section. I developed an automated data pipeline and conducted a time-series analysis in Databricks to track NVIDIA’s stock price trends across weekly, monthly, and yearly intervals and analyze stock price year-over-year growth.
 
 ## How to View
 The report is available as an interactive HTML file.  
