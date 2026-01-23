@@ -2,7 +2,6 @@
 ## Financial, Market & Sentiment Analysis  
 ### Databricks | Python | Spark SQL  
 
-**Group Project**
 **Team Member: Dmytro Tretiakov**
 
 ## Project Overview
