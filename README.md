@@ -1,5 +1,6 @@
 # NVIDIA Business Analysis  
-## Financial, Market & Sentiment Analysis  
+## Financial, Market & Sentiment Analysis
+## Databricks | Python | Spark SQL
 ### Team Member: Dmytro Tretiakov  
 
 ## Project Overview
