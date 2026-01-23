@@ -1,7 +1,7 @@
 # NVIDIA Business Analysis  
 ## Financial, Market & Sentiment Analysis
-## Databricks | Python | Spark SQL
-### Team Member: Dmytro Tretiakov  
+### Databricks | Python | Spark SQL
+#### Team Member: Dmytro Tretiakov  
 
 ## Project Overview
 This group project analyzes NVIDIA’s stock prices, financial data, market performance, and social sentiment using Python and SQL in Databricks. A data pipeline was built to ingest and transform data from REST APIs and CSV datasets, enabling actionable business insights through time-series analysis.
