@@ -4,7 +4,12 @@
 ### Team Member: Dmytro Tretiakov  
 
 ## Project Overview
-This group project analyzes NVIDIA’s stock prices, financial data, market performance, and social sentiment using Python and SQL in Databricks. A data pipeline was built to ingest and transform data from REST APIs and CSV datasets, enabling actionable business insights through time-series analysis.
+This group project analyzes NVIDIA’s stock prices, financial data, market performance, and social sentiment using Python and SQL in Databricks. A data pipeline was built to ingest and transform data from REST APIs and CSV datasets, enabling actionable business insights through time-series analysis. The study examines the following key dimensions:
+1. **Stock price and financial data (My Focus)**
+2. **Market Analysis**
+3. **Social Media Sentiment Analysis**
+
+Throughout this project, I was responsible for the **Stock price Trend and Year over Year Growth analysis** section. I developed an automated data pipeline and conducted a time-series analysis in Databricks to track NVIDIA’s stock price trends across weekly, monthly, and yearly intervals and analyze stock price year-over-year growth.
 
 ## How to View
 The report is available as an interactive HTML file.  
