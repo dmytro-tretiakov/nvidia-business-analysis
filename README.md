@@ -38,7 +38,7 @@ https://dmytro-tretiakov.github.io/nvidia-business-analysis/
 
 ## Group Members
 - Dmytro Tretiakov
-- Yu Shen Ma    
+- Yu-Shen Ma    
 - Rustam Adigozalov  
 - Nouman Ahmed Shah Khan  
 - Hoang Phuong Duy Nguyen  
